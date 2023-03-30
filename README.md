@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
+- 👨‍💻 All of my projects are available at [ismailcv.github.io/](ismailcv.github.io/)
+
 - 💬 Ask me about **Android**
 
 - 📫 How to reach me **icanvarli@outlook.com**
