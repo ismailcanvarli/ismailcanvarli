@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [[ismailcv.github.io/](ismailcv.github.io/)](https://ismailcv.github.io/)
+- 👨‍💻 All of my projects are available at [https://ismailcv.github.io/](https://ismailcv.github.io/)
 
 - 💬 Ask me about **Android**
 
