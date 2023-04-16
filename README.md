@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ismailcv.github.io/](https://ismailcv.github.io/)
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android, Kotlin, Java**
 
 - 📫 How to reach me **icanvarli@outlook.com**
 
