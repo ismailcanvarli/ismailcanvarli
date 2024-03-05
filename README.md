@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İsmail Can VARLI</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailcv&label=Profile%20views&color=0e75b6&style=flat" alt="ismailcv" /> </p>
 
-- 🌱 I’m currently learning **Kotlin & Java**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **icanvarli@outlook.com**
 
