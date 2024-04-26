@@ -1,7 +1,7 @@
-# 💫 About Me:
+# 💫 About Me
 Hello! I'm Ismail Can Varlı. <br>As a 4th-year computer engineering student at Marmara University, I'm shaping my career in the field of software development. I have a great interest in mobile app development and conduct in-depth research in this area. Currently, I'm focusing on specializing in Android Studio platform and honing my skills using the Kotlin programming language.
  
-# 💻 Tech Stack:
+# 💻 Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
