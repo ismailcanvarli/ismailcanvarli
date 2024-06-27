@@ -1,5 +1,5 @@
 # 💫 About Me
-Hello! I'm Ismail Can Varlı. <br>As a 4th-year computer engineering student at Marmara University, I'm shaping my career in the field of software development. I have a great interest in mobile app development and conduct in-depth research in this area. Currently, I'm focusing on specializing in Android Studio platform and honing my skills using the Kotlin programming language.
+Hello! I'm İsmail Can Varlı. <br> I graduated from Marmara University with a degree in Computer Engineering and am focusing on my career in software development. I have a strong passion for mobile app development. As an Android developer, I work on projects using Kotlin and Java and aim to specialize in these technologies.
  
 # 💻 Tech Stack
 <div align="center">
