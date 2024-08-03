@@ -3,7 +3,7 @@
 # İsmail Can Varlı - Android Developer
 
 </div>
-Hello! I'm İsmail Can Varlı. <br> I graduated from Marmara University with a degree in Computer Engineering and am focusing on my career in software development. I have a strong passion for mobile app development. As an Android developer, I work on projects using Kotlin and aim to specialize in these technologies.
+Hello! I'm İsmail Can Varlı. <br> I graduated from Marmara University with a degree in Computer Engineering and am currently focusing on a career in software development. I have a strong passion for mobile app development. As an Android developer, I work on projects using Kotlin and Java, aiming to specialize in these technologies.
  
 # 💻 Tech Stack
 <div align="center">
