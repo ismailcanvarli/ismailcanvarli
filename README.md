@@ -10,46 +10,63 @@ Hello! I'm İsmail Can Varlı. <br> I graduated from Marmara University with a d
   <table>
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio logo" />
-        <p>Android Studio</p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android logo" />
+        <p>Android</p>
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo" />
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40" alt="Kotlin logo" />
         <p>Kotlin</p>
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java logo" />
         <p>Java</p>
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-        <p>MySQL</p>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="Microsoft SQL Server logo" />
-        <p>Microsoft SQL Server</p>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase logo" />
         <p>Firebase</p>
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git logo" />
+        <p>Git</p>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" alt="SQLite logo" />
         <p>SQLite</p>
       </td>
+    </tr>
+    <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" />
-        <p>Spring</p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 logo" />
+        <p>HTML5</p>
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" alt="Mocha logo" />
-        <p>Mocha</p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3 logo" />
+        <p>CSS3</p>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman logo" />
+        <p>Postman</p>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="Figma logo" />
+        <p>Figma</p>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="40" alt="Selenium logo" />
+        <p>Selenium</p>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python logo" />
+        <p>Python</p>
       </td>
     </tr>
   </table>
 </div>
 
-
+# 📫 Connect with me
+- 📧 Email: ismailcanvarli@gmail.com
+- 💼 LinkedIn: [Ismail Can Varlı](http://linkedin.com/in/ismailcanvarli)
+- ✍️ Medium: [@ismailcanvarli](https://medium.com/@ismailcanvarli)
 
 # 👨‍💻 GitHub 
 | GitHub Stats | GitHub Streak | Top Languages |
